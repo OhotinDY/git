@@ -8,6 +8,8 @@
 
 [ссылка на коммит](https://github.com/OhotinDY/try4/commit/d52e396e8d5b575d02f3815f655a62d7fb48e9bf)
 
+### Задание 3
 
+[ссылка на граф коммитов](https://github.com/OhotinDY/try4/network)
 
 
