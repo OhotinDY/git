@@ -2,6 +2,8 @@
 
 ### Задание 1
 
-[ссылка на коммит] ()
+[ссылка на коммит] (https://github.com/OhotinDY/try4/commit/608a71df8e4caeec11e15f93211915699ebc54fb)
+
+
 
 
